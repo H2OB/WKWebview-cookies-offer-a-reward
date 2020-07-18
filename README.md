@@ -1,0 +1,1 @@
+# -2000-WKWebview-domain-cookie
